@@ -1,0 +1,7 @@
+{
+  "name": "Letras Latinas - Community Library Portal",
+  "description": "A comprehensive community library management system featuring a catalog with reservations, user loan tracking, and a full admin dashboard for managing books and members.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
